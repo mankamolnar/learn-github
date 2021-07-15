@@ -3,5 +3,3 @@
 This is, a tutorial about how to use github, in a real application.
 
 - shopping, cart, is ready
-git checkout -b
-somos perros de guerra
